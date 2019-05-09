@@ -8,14 +8,14 @@ So this is when I found out that Chrome extensions are stored client-side and th
 
 > C:\Users\\_*\{username\}*_\AppData\Local\Google\Chrome\User Data\Default\Extensions\\_*\{appId\}*_
 
-Extension source-code can be found in this folder location where the _*\{appId\}*_ is the same identifier used in Chrome Web Store i.e. pjajmbdjiiboeoaaplgcigkmcljimddm.
+Extension source-code can be found in this folder location where the _*\{appId\}*_ is the same identifier used in the Chrome Web Store i.e. pjajmbdjiiboeoaaplgcigkmcljimddm.
 
 
 # So what are my goals?
 
-* Analyzing the code for v2.1
-* Refactoring where possible
-* Exploring Chrome extension development options, standards, etc.
+* Analyze the code for v2.1
+* Refactor where possible
+* Explore Chrome extension development options, standards, etc.
 
 
 # Resources
