@@ -10,7 +10,6 @@ So this is when I found out that Chrome extensions are stored client-side and th
 
 Extension source-code can be found in this folder location where the _*\{appId\}*_ is the same identifier used in Chrome Web Store i.e. pjajmbdjiiboeoaaplgcigkmcljimddm.
 
---------------------
 
 # So what are my goals?
 
@@ -18,7 +17,6 @@ Extension source-code can be found in this folder location where the _*\{appId\}
 * Refactoring where possible
 * Exploring Chrome extension development options, standards, etc.
 
---------------------
 
 # Resources
 ## Chrome Extension Development
@@ -31,7 +29,11 @@ Extension source-code can be found in this folder location where the _*\{appId\}
 * [~Tab-To-Do.com - Official Web Site~](https://tabtodo.com) - `Looks Like This Domain Isn't Connected To A Website Yet` as of 2019-05-08.
 * [Tab-To-Do's Public Github Repo](https://github.com/tabtodo/tabtodo/) - It was a bit out-of-date but any history is better than none
 
+
 --------------------
+
+
+##### Are you not entertained?
 
 <b><sup>1</sup></b> By sticky-rename I mean that the addon could rename a Chrome tab and that name would persist regardless of whether you clicked links within the page or refreshed the browser.
 
