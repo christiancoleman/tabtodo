@@ -1,0 +1,24 @@
+{
+   "background": {
+      "scripts": [ "js/lib/jquery.js", "js/app/background.js" ]
+   },
+   "browser_action": {
+      "default_icon": "img/tabtodo.png",
+      "default_popup": "popup.html",
+      "default_title": "Tab-To-do"
+   },
+   "content_security_policy": "script-src 'self' https://ssl.google-analytics.com; object-src 'self'",
+   "description": "Turn open tabs into daily tasks",
+   "icons": {
+      "128": "img/tabtodo128.png",
+      "16": "img/tabtodo.png",
+      "48": "img/tabtodo48.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAsOliHCiInQSw6NHrcTofUxga3yZ3Dh6FvYwmKGYIS2aC4SQh7wnAGXxncb4cRDx9Xm4VMcm9E5IaYMTD99p1U+DXX9ta9N+/n0ZixVWkbR8SR26GzIWsyyyYhvQ9DzJraiHEXU4uXeyRWGvzyuucwMYMDKHDtac8PBQ8MnCLn0rI10rGx5qMNTRq750u5bzdTx9ZRUC9OBzarBRA7HAeuwbqTi4a3BWmbt7w957flgl5AwyNuYC07738ApKWL5VRoY0RGFwpZqWtbpKNa4i78+JIgmI0Km4UDEOiCECLMc925YRJlaNDWKJpsONGzs7FY+as2UMrYvhOfWHAKX43CwIDAQAB",
+   "manifest_version": 2,
+   "minimum_chrome_version": "18",
+   "name": "Tab-To-Do",
+   "permissions": [ "http://*/*", "https://*/*", "storage", "contextMenus", "cookies", "tabs", "notifications", "activeTab" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.1"
+}
