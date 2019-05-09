@@ -33,9 +33,9 @@ Extension source-code can be found in this folder location where the _*\{appId\}
 --------------------
 
 
-<b><sup><a name="sup1">1</a></sup></b> By sticky-rename I mean that the addon could rename a Chrome tab and that name would persist regardless of whether you clicked links within the page or refreshed the browser.
+<b><sup><a name="sup1">1</a></sup></b> dependability?? ¯\\_(ツ)_/¯
 
-<b><sup><a name="sup2">2</a></sup></b> dependability?? ¯\\_(ツ)_/¯
+<b><sup><a name="sup1">2</a></sup></b> By sticky-rename I mean that the addon could rename a Chrome tab and that name would persist regardless of whether you clicked links within the page or refreshed the browser.
 
 <b><sup><a name="sup3">3</a></sup></b> Or was it the web store page? I know I looked up both. I just forget which one led me to it.
 
